@@ -1,7 +1,7 @@
 AJ Hammond, PNPT, CRTO, OSCP, AWS CCP, BSCP
 
 
-Penetration Tester, Red-Teamer, cyber cowboy
+Penetration Tester, Red-Teamer
 
 
-Offensive Security Engineer II - Praetorian, Inc.
+Senior Offensive Security Engineer, Red Team - Praetorian, Inc.
